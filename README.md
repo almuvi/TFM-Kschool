@@ -50,7 +50,7 @@ Reporte de clasificación \
 Matriz de confusión \
 Curva ROC \
 1.4.	Árbol de decisión \
-Mejor modelo de Árbol de decisión \
+\\ Mejor modelo de Árbol de decisión \
 Reporte de clasificación \
 Matriz de confusión \
 Curva ROC \

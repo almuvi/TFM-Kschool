@@ -3,6 +3,7 @@
 
 # ANEXOS: Índice de los códigos
 ## 0.	Datos
+
 0.1.	Lectura
 0.2.	 Exploración dataset
 0.3.	Análisis de variables

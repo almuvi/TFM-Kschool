@@ -45,24 +45,24 @@
 	Matriz de confusión \
 	Curva ROC \
 1.3.	Regresión logística \
-Mejor modelo de Regresión Logística \
-Reporte de clasificación \
-Matriz de confusión \
-Curva ROC \
+	Mejor modelo de Regresión Logística \
+	Reporte de clasificación \
+	Matriz de confusión \
+	Curva ROC \
 1.4.	Árbol de decisión \
 	Mejor modelo de Árbol de decisión \
 	Reporte de clasificación \
 	Matriz de confusión \
 	Curva ROC \
 1.5.	Random Forest \
-Mejor modelo de Random Forest \
-Reporte de clasificación \
-Matriz de confusión \
-Curva ROC \
+	Mejor modelo de Random Forest \
+	Reporte de clasificación \
+	Matriz de confusión \
+	Curva ROC \
 1.6.	Gradient Boosting \
-Mejor modelo de Gradient Boosting \
-Reporte de clasificación \
-Matriz de confusión \
-Curva ROC \
-Importancia de variables \
-1.7.	Conclusiones \
+	Mejor modelo de Gradient Boosting \
+	Reporte de clasificación \
+	Matriz de confusión \
+	Curva ROC \
+	Importancia de variables \
+1.7.	Conclusiones 

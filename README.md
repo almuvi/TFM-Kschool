@@ -9,7 +9,7 @@
 0.5.	Correlaciones \
 0.6.	Quitar registros \
 0.7.	Bajomuestreo \
-0.8.	Guardamos conjunto de datos \
+0.8.	Guardamos conjunto de datos 
 
 
 

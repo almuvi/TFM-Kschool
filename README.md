@@ -50,10 +50,10 @@ Reporte de clasificación \
 Matriz de confusión \
 Curva ROC \
 1.4.	Árbol de decisión \
-\\ Mejor modelo de Árbol de decisión \
-Reporte de clasificación \
-Matriz de confusión \
-Curva ROC \
+	Mejor modelo de Árbol de decisión \
+	Reporte de clasificación \
+	Matriz de confusión \
+	Curva ROC \
 1.5.	Random Forest \
 Mejor modelo de Random Forest \
 Reporte de clasificación \

@@ -12,7 +12,6 @@
 0.6.	Quitar registros \
 0.7.	Bajomuestreo \
 0.8.	Guardamos conjunto de datos \
-\
 
 
 
